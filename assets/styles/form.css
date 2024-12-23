@@ -1,0 +1,66 @@
+*
+{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+.personal
+{
+    text-align: center;
+}
+.personal h2
+{
+    font-size: 40px;
+    padding: 20px 0px;
+    text-align: center;
+}
+form
+{
+    margin-top: 20px;
+}
+
+form label
+{
+    font-weight: 600;
+}
+
+form input
+{
+    padding: 10px 20px;
+    padding-right: 200px;
+    border: 1px solid rgb(189, 189, 189);
+    border-radius: 5px;
+    margin: 30px 10px;
+}
+.button .btn-1 ,.btn-2 ,.btn-3
+{
+    padding: 10px 20px;
+    background-color: rgb(240, 238, 238);
+    color: #000000;
+    border-radius: 10px;
+    line-height: 70px;
+}
+
+.btn-nex
+{
+    background-color: #000000;
+    color: #fff;
+    padding: 15px 100px;
+    border-radius: 8px;
+    line-height: 100px;
+}
+.btn-bac
+{
+    background-color: #fff;
+    color: #000000;
+    border: 2px solid #000000;
+    padding: 15px 100px;
+    border-radius: 8px;
+    line-height: 100px;
+}
+
+hr
+{
+    margin: 50px 0px;
+}
